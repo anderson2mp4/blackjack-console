@@ -1,0 +1,33 @@
+# Build outputs
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.ipdb
+*.iobj
+
+# Visual Studio
+.vs/
+x64/
+x86/
+Debug/
+Release/
+build/
+*.sln
+*.vcxproj
+*.filters
+*.user
+
+# CMake
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+
+# System
+.DS_Store
+Thumbs.db
+
+# Game data
+blackjack_stats.txt
+*.log
